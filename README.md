@@ -1,4 +1,4 @@
-# financial_outcomes
+# Financial Outcomes of Private Equity Portfolio Companies post-IPO
 PLEASE NOTE: The binder image will not run at the moment. To be restored shortly...
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Leo-Marmo/financial_outcomes.git/HEAD?labpath=main_notebook.ipynb)
 
